@@ -1,0 +1,56 @@
+2019-10-14 search is started at - 2020-06-24T14:49:55.054
+2019-10-14 search is OVER at - 2020-06-24T14:50:51.617. duration - 56557
+lines amount - 1
+2019-10-16 search is started at - 2020-06-24T14:50:51.617
+2019-10-16 search is OVER at - 2020-06-24T14:51:35.303. duration - 43686
+lines amount - 1
+2019-10-17 search is started at - 2020-06-24T14:51:35.303
+2019-10-17 search is OVER at - 2020-06-24T14:52:50.325. duration - 75022
+lines amount - 1
+2019-10-18 search is started at - 2020-06-24T14:52:50.325
+2019-10-18 search is OVER at - 2020-06-24T14:54:26.170. duration - 95845
+lines amount - 0
+2019-10-19 search is started at - 2020-06-24T14:54:26.170
+2019-10-19 search is OVER at - 2020-06-24T14:55:21.571. duration - 55401
+lines amount - 0
+Total duration in consistent way is 326518 ms.
+
+2019-10-14 search is started at - 2020-06-24T14:55:21.596
+Total duration of threads is 27 ms.
+
+Multi-threading is faster for 326491 ms.
+
+2019-10-16 search is started at - 2020-06-24T14:55:21.600
+2019-10-17 search is started at - 2020-06-24T14:55:21.600
+2019-10-18 search is started at - 2020-06-24T14:55:21.600
+2019-10-19 search is started at - 2020-06-24T14:55:21.600
+2019-10-17 search is OVER at - 2020-06-24T14:56:48.442. duration - 86842
+lines amount - 1
+2019-10-16 search is OVER at - 2020-06-24T14:56:48.442. duration - 86842
+lines amount - 1
+2019-10-18 search is OVER at - 2020-06-24T14:56:48.443. duration - 86843
+lines amount - 0
+2019-10-14 search is OVER at - 2020-06-24T14:56:48.447. duration - 86851
+lines amount - 1
+2019-10-19 search is OVER at - 2020-06-24T14:56:48.449. duration - 86849
+lines amount - 0
+
+Process finished with exit code 0
+
+Multi-threading is faster for 42569 ms.
+
+2019-10-19 search is started at - 2020-06-24T14:32:56.539
+2019-10-18 search is started at - 2020-06-24T14:32:56.539
+2019-10-17 search is started at - 2020-06-24T14:32:56.539
+2019-10-16 search is OVER at - 2020-06-24T14:33:19.999. duration - 23471
+lines amount - 1
+2019-10-18 search is OVER at - 2020-06-24T14:33:20.035. duration - 23496
+lines amount - 0
+2019-10-17 search is OVER at - 2020-06-24T14:33:20.849. duration - 24310
+lines amount - 1
+2019-10-14 search is OVER at - 2020-06-24T14:33:21.230. duration - 24708
+lines amount - 1
+2019-10-19 search is OVER at - 2020-06-24T14:33:21.460. duration - 24921
+lines amount - 0
+
+Process finished with exit code 0
